@@ -23,7 +23,7 @@ int main()
 
 	cout << "x = "; cin >> x;
 
-	z1 = (1 - (2 * sin(x) * sin(x))) / (1 + sin(2 * x));
+	z1 = (1 - (2 * sin(x) * sin(x))) / (1 + sin(2 * x))*1;
 
 	z2 = (1 - tan(x)) / (1 + tan(x));
 
